@@ -6,19 +6,8 @@
 
 ## Usage
 
-## Contributing
+## Credits
 
-## License
-
-## Project status
-
-## Author
+- https://github.com/extractus/article-extractor
 
 ## Acknowledgements
-
-## Contact
-
-## Project link
-
-## Project dependencies
-
