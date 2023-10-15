@@ -1,4 +1,4 @@
-# As the defunct bloxp website, this is a web wrapping library to convert websites into ebooks
+# The Bloxp spirit
 
 ## Description
 
